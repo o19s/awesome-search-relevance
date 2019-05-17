@@ -10,15 +10,21 @@ The "plungers" we use in our job day-to-day.
 
 - [Quepid](http://quepid.com) - test driven relevance browser sandbox using a small set of judgments
 - [Splainer](http://splainer.io) - debug a single Solr or Elasticsearch query
+- [Rated Ranking Evaluator](https://github.com/SeaseLtd/rated-ranking-evaluator) - Maven based relevance testing tool against a Solr or Elasticsearch config
+- [Quaerite](https://github.com/mitre/quaerite) - Search relevance evaluation framework
 
 ## Search Engines
+
+- [Apache Solr](http://lucene.apache.org/solr/)
+- [Elasticsearch](https://www.elastic.co/downloads/elasticsearch)
+- [Vespa](http://vespa.ai)
 
 ## Learning to Rank
 
 ### Search Engine Plugins
 
 - [Elasticsearch Learning to Rank](http://github.com/o19s/elasticsearch-learning-to-rank)
-- [Solr Learning to Rank]
+- [Solr Learning to Rank](https://lucene.apache.org/solr/guide/6_6/learning-to-rank.html)
 
 ### Tooling
 
