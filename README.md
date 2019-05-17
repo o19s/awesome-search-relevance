@@ -6,7 +6,7 @@ Tools and other things for people who work on search relevance &amp; information
 
 The "plungers" we use in our job day-to-day.
 
-## Search Relevance Testing
+## Offline Search Relevance Testing
 
 - [Quepid](http://quepid.com) - test driven relevance browser sandbox using a small set of judgments
 - [Splainer](http://splainer.io) - debug a single Solr or Elasticsearch query
@@ -37,6 +37,8 @@ Tooling for doing machine learning to optimize relevance
 - [TFRanking](https://github.com/tensorflow/ranking) - Tensorflow ranking
 
 ## NLP
+
+- [Gensim](https://radimrehurek.com/gensim/) - Topic modeling, and other useful NLP tasks like collocation detection, word2vec, and others
 
 ## Analytics
 
