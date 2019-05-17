@@ -26,16 +26,22 @@ The "plungers" we use in our job day-to-day.
 - [Elasticsearch Learning to Rank](http://github.com/o19s/elasticsearch-learning-to-rank)
 - [Solr Learning to Rank](https://lucene.apache.org/solr/guide/6_6/learning-to-rank.html)
 
-### Tooling
+### Learning to Rank Training
+
+- [Ranklib](https://sourceforge.net/p/lemur/wiki/RankLib/) - original implementation of LambdaMART and other algorithms
+- [RankyMcRankFace](https://github.com/o19s/RankyMcRankFace) - Ranklib fork with a few extra features
+- [XGBoost](https://xgboost.readthedocs.io/en/latest/) - eXtreme Gradient Boosting - scalably train a MART ranking model
+- [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's gradient boosting library
 
 ## NLP
 
 ## Analytics
 
-# Conferences
+# Conferences & Meetups
 
 - [Haystack](http://haystackconf.com) - Haystack the Search Relevance conference
 - [Activate](http://activate-conf.com) - formerly Lucene/Solr Revolution, focus on Solr+AI
+
 
 # Training
 
