@@ -55,6 +55,7 @@ Tooling for doing machine learning to optimize relevance
 - [SIGIR](http://sigir.org/) - ACM's Information Retrieval conference. Academic focused with an industry day
 - [ECIR](http://ecir2019.org/) - European Conference on Information Retrieval
 - [MICES](http://mices.co) - MIx Camp E-commerce Search, focused on E-commerce industry across technologists and product managers
+- [Search Solutions](https://irsg.bcs.org/) - British Computer Society day covering search and information retrieval 
 
 
 # Training
