@@ -48,6 +48,11 @@ Tooling for doing machine learning to optimize relevance
 
 - [Querqy](http://github.com/renekrie/querqy) - Query preprocessing & search rule system for applying query-specific boosts, filters, downboosts, etc (ie downboost 'case' category when user searches for 'iPhone')
 
+# Blogs
+
+- [Lucidworks Blog](http://lucidworks.com/blog) - Fusion & solr
+- [OpenSource Connections Blog](http://opensourceconnections.com/blog) - open source relevance blogging
+
 # Conferences & Meetups
 
 - [Haystack](http://haystackconf.com) - Haystack the Search Relevance conference
