@@ -19,19 +19,22 @@ The "plungers" we use in our job day-to-day.
 - [Elasticsearch](https://www.elastic.co/downloads/elasticsearch)
 - [Vespa](http://vespa.ai)
 
-## Learning to Rank
+## Learning to Rank Tooling
+
+Tooling for doing machine learning to optimize relevance
 
 ### Search Engine Plugins
 
-- [Elasticsearch Learning to Rank](http://github.com/o19s/elasticsearch-learning-to-rank)
-- [Solr Learning to Rank](https://lucene.apache.org/solr/guide/6_6/learning-to-rank.html)
+- [Elasticsearch Learning to Rank](http://github.com/o19s/elasticsearch-learning-to-rank) - supports storing and logging features (ES queries), uploading models, and executing Ranklib and XGBoost models
+- [Solr Learning to Rank](https://lucene.apache.org/solr/guide/6_6/learning-to-rank.html) - supports storing and logging features (Solr queries), uploading models, and executing a range of models
 
-### Learning to Rank Training
+### Learning to Rank Training Models
 
 - [Ranklib](https://sourceforge.net/p/lemur/wiki/RankLib/) - original implementation of LambdaMART and other algorithms
 - [RankyMcRankFace](https://github.com/o19s/RankyMcRankFace) - Ranklib fork with a few extra features
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/) - eXtreme Gradient Boosting - scalably train a MART ranking model
 - [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's gradient boosting library
+- [TFRanking](https://github.com/tensorflow/ranking) - Tensorflow ranking
 
 ## NLP
 
