@@ -42,6 +42,8 @@ Tooling for doing machine learning to optimize relevance
 
 ## Analytics
 
+- [Search Collector](https://github.com/searchhub/search-collector) - Collecting behavioral signals from a browser
+
 ## Rule Systems
 
 - [Querqy](http://github.com/renekrie/querqy) - Query preprocessing & search rule system for applying query-specific boosts, filters, downboosts, etc (ie downboost 'case' category when user searches for 'iPhone')
@@ -50,6 +52,9 @@ Tooling for doing machine learning to optimize relevance
 
 - [Haystack](http://haystackconf.com) - Haystack the Search Relevance conference
 - [Activate](http://activate-conf.com) - formerly Lucene/Solr Revolution, focus on Solr+AI
+- [SIGIR](http://sigir.org/) - ACM's Information Retrieval conference. Academic focused with an industry day
+- [ECIR](http://ecir2019.org/) - European Conference on Information Retrieval
+- [MICES](http://mices.co) - MIx Camp E-commerce Search, focused on E-commerce industry across technologists and product managers
 
 
 # Training
