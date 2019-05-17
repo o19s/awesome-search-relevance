@@ -63,3 +63,11 @@ Tooling for doing machine learning to optimize relevance
 - [OpenSource Connections Training](http://opensourceconnections.com/events/training) - Solr &amp; Elasticsearch relevance, Learning to rank, NLP training and others
 - [Elastic training](https://www.elastic.co/training/) - a smattering of classes that can help with relevance like deep diving into analyzers, etc
 - [Lucidworks training](http://lucidworks.com/training) - classes covering Solr + Lucidworks Fusion
+
+# Hosted Cloud Based Open Source Search 
+
+Cloud-based Solr, Elasticsearch
+
+- [Bonsai](http://bonsai.io)
+- [MeasuredSearch](http://measuredsearch.com)
+- [Elastic Cloud](https://www.elastic.co/cloud/)
