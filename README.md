@@ -62,9 +62,9 @@ Tooling for doing machine learning to optimize relevance
 - [MICES](http://mices.co) - MIx Camp E-commerce Search, focused on E-commerce industry across technologists and product managers
 - [Search Solutions](https://irsg.bcs.org/) - British Computer Society day covering search and information retrieval
 
-# Videos
+## Past Conference Videos
 
-- [Haystack US 2019] (https://www.youtube.com/playlist?list=PLCoJWKqBHERu9Fe0W12D7XKwGT2eoJJNU) - Youtube Playlist of conference talks.   
+- [Haystack US 2019] (https://www.youtube.com/playlist?list=PLCoJWKqBHERu9Fe0W12D7XKwGT2eoJJNU) - Youtube Playlist of Haystack 2019 talks.   
 
 # Training
 
