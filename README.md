@@ -64,7 +64,7 @@ Tooling for doing machine learning to optimize relevance
 
 ## Past Conference Videos
 
-- [Haystack US 2019] (https://www.youtube.com/playlist?list=PLCoJWKqBHERu9Fe0W12D7XKwGT2eoJJNU) - Youtube Playlist of Haystack 2019 talks.   
+- [Haystack US 2019](https://www.youtube.com/playlist?list=PLCoJWKqBHERu9Fe0W12D7XKwGT2eoJJNU) - Youtube Playlist of Haystack 2019 talks.   
 
 # Training
 
