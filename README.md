@@ -50,7 +50,7 @@ Tooling for doing machine learning to optimize relevance
 
 # Blogs
 
-- [Lucidworks Blog](http://lucidworks.com/blog) - Fusion & solr
+- [Lucidworks Blog](http://lucidworks.com/blog) - Fusion & Solr
 - [OpenSource Connections Blog](http://opensourceconnections.com/blog) - open source relevance blogging
 
 # Conferences & Meetups
@@ -60,8 +60,11 @@ Tooling for doing machine learning to optimize relevance
 - [SIGIR](http://sigir.org/) - ACM's Information Retrieval conference. Academic focused with an industry day
 - [ECIR](http://ecir2019.org/) - European Conference on Information Retrieval
 - [MICES](http://mices.co) - MIx Camp E-commerce Search, focused on E-commerce industry across technologists and product managers
-- [Search Solutions](https://irsg.bcs.org/) - British Computer Society day covering search and information retrieval 
+- [Search Solutions](https://irsg.bcs.org/) - British Computer Society day covering search and information retrieval
 
+# Videos
+
+- [Haystack US 2019] (https://www.youtube.com/playlist?list=PLCoJWKqBHERu9Fe0W12D7XKwGT2eoJJNU) - Youtube Playlist of conference talks.   
 
 # Training
 
@@ -69,7 +72,7 @@ Tooling for doing machine learning to optimize relevance
 - [Elastic training](https://www.elastic.co/training/) - a smattering of classes that can help with relevance like deep diving into analyzers, etc
 - [Lucidworks training](http://lucidworks.com/training) - classes covering Solr + Lucidworks Fusion
 
-# Hosted Cloud Based Open Source Search 
+# Hosted Cloud Based Open Source Search
 
 Cloud-based Solr, Elasticsearch
 
