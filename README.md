@@ -47,7 +47,7 @@ Tooling for doing machine learning to optimize relevance
 ## Rule Systems
 
 - [Querqy](http://github.com/renekrie/querqy) - Query preprocessing & search rule system for applying query-specific boosts, filters, downboosts, etc (ie downboost 'case' category when user searches for 'iPhone')
-- [SMUI] (https://github.com/pbartusch/smui) - UI for managing Solr collections, which supports (among other things) managing Quergy rules.
+- [SMUI](https://github.com/pbartusch/smui) - UI for managing Solr collections, which supports (among other things) managing Quergy rules.
 
 # Blogs
 
