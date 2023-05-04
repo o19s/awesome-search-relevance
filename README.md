@@ -18,6 +18,7 @@ The "plungers" we use in our job day-to-day.
 - [Apache Solr](http://lucene.apache.org/solr/)
 - [Elasticsearch](https://www.elastic.co/downloads/elasticsearch)
 - [Vespa](http://vespa.ai)
+- [OpenSearch](https://opensearch.org/)
 
 ## Learning to Rank Tooling
 
